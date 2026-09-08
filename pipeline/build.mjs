@@ -272,6 +272,16 @@ if (tramAll || railSel.length) MODES.push({
 // dragged into a detour. Empty until a pole is found to be wrong.
 const STOP_FIX = {};
 
+// turn angle (degrees, 0 = straight on) at b for the path a → b → c, in
+// [lon, lat]; a degenerate leg counts as straight so it never blocks a weld
+const turnAt = (a, b, c) => {
+  const k = Math.cos(b[1] * Math.PI / 180);
+  const ux = (b[0] - a[0]) * k, uy = b[1] - a[1], vx = (c[0] - b[0]) * k, vy = c[1] - b[1];
+  const n = Math.hypot(ux, uy) * Math.hypot(vx, vy);
+  if (!n) return 0;
+  return Math.acos(Math.max(-1, Math.min(1, (ux * vx + uy * vy) / n))) * 180 / Math.PI;
+};
+
 function mergeRuns(all) {
   const merged = [];
   const byKey = new Map();
@@ -312,8 +322,14 @@ function mergeRuns(all) {
           if (cands.length !== 1) break; // fork/end — we do not guess
           const { i: ni, end } = cands[0];
           const nr = arr[ni];
-          used[ni] = true;
           const add = end === 0 ? nr.coords : [...nr.coords].reverse();
+          // A shared endpoint is not enough: when the two directions of a line
+          // were matched onto two node chains 2 m apart, a back-running fragment
+          // meets the chain at its end and used to be welded on as a hairpin
+          // (line 135, Francouzská × Slovenská, 8.09.2026). Refuse a joint that
+          // reverses the chain (turn > 150°) — the piece stays a run of its own.
+          if (turnAt(coords[coords.length - 2], coords[coords.length - 1], add[1]) > 150) break;
+          used[ni] = true;
           for (let p = 1; p < add.length; p++) coords.push(add[p]);
           if (nr.name) names.add(nr.name);
         }
@@ -1579,6 +1595,18 @@ const metaLines = results.flatMap((r) => r.metaLines);
         baseProps.tLines = tl.join(', ');
         baseProps.ntLines = arr.filter((l) => !TSET.has(l)).join(', ');
       }
+    } else if (p.busLines && TSET.size) {
+      // shared rail+bus corridor: the bus row below the tram/metro row gets the
+      // same green/navy split (53/59 along the tram tracks printed navy, 8.09.2026);
+      // ntLines is set only when non-empty, so the frontend never prints a
+      // dangling newline after an all-trolleybus bus row
+      const bl = p.busLines.split(', ');
+      const tl = bl.filter((l) => TSET.has(l));
+      if (tl.length) {
+        baseProps.tLines = tl.join(', ');
+        const nt = bl.filter((l) => !TSET.has(l));
+        if (nt.length) baseProps.ntLines = nt.join(', ');
+      }
     }
     // mixed paratransit corridors carry both halves so the frontend can show
     // only the relevant one when a single network is toggled on
@@ -1978,3 +2006,6 @@ writeFileSync(join(outDir, 'meta.json'), JSON.stringify({
   lines: metaLines.map((l) => ({ ...(LBL.has(l.line) ? { ...l, label: LBL.get(l.line) } : l), rank: lineRank(l.line) })),
 }, null, 2));
 log(`Wrote data/out/{route,streets,labels,street-names,stops,badges,gtfs-shape}.geojson + meta.json`);
+
+// Night lines print black (user rule 8.09.2026): a post-pass over the written outputs, see night.mjs.
+await (await import('./night.mjs')).nightPass(outDir, NIGHT, { sort: false });
