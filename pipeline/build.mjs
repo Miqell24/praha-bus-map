@@ -2008,4 +2008,4 @@ writeFileSync(join(outDir, 'meta.json'), JSON.stringify({
 log(`Wrote data/out/{route,streets,labels,street-names,stops,badges,gtfs-shape}.geojson + meta.json`);
 
 // Night lines print black (user rule 8.09.2026): a post-pass over the written outputs, see night.mjs.
-await (await import('./night.mjs')).nightPass(outDir, NIGHT, { sort: false });
+await (await import('./night.mjs')).nightPass(outDir, NIGHT, { sort: true });

@@ -12896,6 +12896,2456 @@
       "rank": 1
     },
     {
+      "line": "1",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Výstaviště",
+          "variants": 7,
+          "tripCount": 165,
+          "stops": 22,
+          "lengthKm": 10.71,
+          "stats": {
+            "observations": 449,
+            "matched": 449,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6972904163817688,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sídliště Petřiny",
+          "variants": 12,
+          "tripCount": 168,
+          "stops": 23,
+          "lengthKm": 10.7,
+          "stats": {
+            "observations": 449,
+            "matched": 449,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.712695014681419,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "2",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Náměstí Bratří Synků",
+          "variants": 18,
+          "tripCount": 96,
+          "stops": 25,
+          "lengthKm": 11.44,
+          "stats": {
+            "observations": 472,
+            "matched": 472,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7024109805360212,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sídliště Petřiny",
+          "variants": 17,
+          "tripCount": 96,
+          "stops": 24,
+          "lengthKm": 11.36,
+          "stats": {
+            "observations": 469,
+            "matched": 469,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7110253914843538,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "3",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Kobylisy",
+          "variants": 17,
+          "tripCount": 45,
+          "stops": 41,
+          "lengthKm": 20.27,
+          "stats": {
+            "observations": 953,
+            "matched": 953,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8257286458943351,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sídliště Modřany",
+          "variants": 14,
+          "tripCount": 37,
+          "stops": 42,
+          "lengthKm": 20.24,
+          "stats": {
+            "observations": 951,
+            "matched": 951,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8249775660950391,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "4",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Čechovo náměstí",
+          "variants": 9,
+          "tripCount": 190,
+          "stops": 17,
+          "lengthKm": 6.99,
+          "stats": {
+            "observations": 316,
+            "matched": 316,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7124809539565375,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Radlická",
+          "variants": 12,
+          "tripCount": 194,
+          "stops": 18,
+          "lengthKm": 6.99,
+          "stats": {
+            "observations": 315,
+            "matched": 315,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.685374946771503,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "5",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Nádraží Holešovice",
+          "variants": 10,
+          "tripCount": 191,
+          "stops": 33,
+          "lengthKm": 15.48,
+          "stats": {
+            "observations": 740,
+            "matched": 740,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6399558410434387,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Slivenec",
+          "variants": 7,
+          "tripCount": 196,
+          "stops": 33,
+          "lengthKm": 15.46,
+          "stats": {
+            "observations": 739,
+            "matched": 739,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.633423112583736,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "6",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Kubánské náměstí",
+          "variants": 9,
+          "tripCount": 173,
+          "stops": 24,
+          "lengthKm": 10.34,
+          "stats": {
+            "observations": 464,
+            "matched": 464,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.699611756154119,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Nádraží Holešovice",
+          "variants": 8,
+          "tripCount": 171,
+          "stops": 24,
+          "lengthKm": 10.45,
+          "stats": {
+            "observations": 471,
+            "matched": 471,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7070994815425053,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "7",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Lehovec",
+          "variants": 7,
+          "tripCount": 75,
+          "stops": 48,
+          "lengthKm": 22.35,
+          "stats": {
+            "observations": 1014,
+            "matched": 1014,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.698626302534539,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Kotlářka",
+          "variants": 8,
+          "tripCount": 184,
+          "stops": 43,
+          "lengthKm": 20.31,
+          "stats": {
+            "observations": 916,
+            "matched": 916,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7061113165079163,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "8",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Starý Hloubětín",
+          "variants": 4,
+          "tripCount": 164,
+          "stops": 28,
+          "lengthKm": 14.04,
+          "stats": {
+            "observations": 613,
+            "matched": 613,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.668621459744775,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Nádraží Podbaba",
+          "variants": 3,
+          "tripCount": 161,
+          "stops": 29,
+          "lengthKm": 14.08,
+          "stats": {
+            "observations": 615,
+            "matched": 615,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6738484100644855,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "9",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Spojovací",
+          "variants": 7,
+          "tripCount": 326,
+          "stops": 40,
+          "lengthKm": 18.58,
+          "stats": {
+            "observations": 869,
+            "matched": 869,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.647009827490646,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sídliště Řepy",
+          "variants": 7,
+          "tripCount": 333,
+          "stops": 40,
+          "lengthKm": 18.57,
+          "stats": {
+            "observations": 869,
+            "matched": 869,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6733485069550411,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "10",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Sídliště Ďáblice",
+          "variants": 2,
+          "tripCount": 173,
+          "stops": 46,
+          "lengthKm": 22.18,
+          "stats": {
+            "observations": 1031,
+            "matched": 1031,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.653777815096983,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sídliště Řepy",
+          "variants": 3,
+          "tripCount": 173,
+          "stops": 49,
+          "lengthKm": 22.33,
+          "stats": {
+            "observations": 1038,
+            "matched": 1038,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6567644054815265,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "11",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Spojovací",
+          "variants": 10,
+          "tripCount": 174,
+          "stops": 30,
+          "lengthKm": 12.79,
+          "stats": {
+            "observations": 641,
+            "matched": 641,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6682848122460912,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Spořilov",
+          "variants": 8,
+          "tripCount": 177,
+          "stops": 30,
+          "lengthKm": 12.77,
+          "stats": {
+            "observations": 639,
+            "matched": 639,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6688846647661562,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "12",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Lehovec",
+          "variants": 10,
+          "tripCount": 181,
+          "stops": 46,
+          "lengthKm": 22.79,
+          "stats": {
+            "observations": 1023,
+            "matched": 1023,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6575345045120873,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sídliště Barrandov",
+          "variants": 5,
+          "tripCount": 180,
+          "stops": 47,
+          "lengthKm": 22.82,
+          "stats": {
+            "observations": 1025,
+            "matched": 1025,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6698175005706226,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "13",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Olšanské hřbitovy",
+          "variants": 10,
+          "tripCount": 135,
+          "stops": 10,
+          "lengthKm": 3.5,
+          "stats": {
+            "observations": 176,
+            "matched": 176,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7188982445368484,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Zvonařka",
+          "variants": 10,
+          "tripCount": 151,
+          "stops": 10,
+          "lengthKm": 3.47,
+          "stats": {
+            "observations": 175,
+            "matched": 175,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7051264494530487,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "15",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Olšanské hřbitovy",
+          "variants": 18,
+          "tripCount": 154,
+          "stops": 28,
+          "lengthKm": 15.08,
+          "stats": {
+            "observations": 724,
+            "matched": 724,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6750159796411779,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sídliště Barrandov",
+          "variants": 11,
+          "tripCount": 161,
+          "stops": 28,
+          "lengthKm": 15.1,
+          "stats": {
+            "observations": 725,
+            "matched": 725,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6985597828993204,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "16",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ústřední dílny DP",
+          "variants": 5,
+          "tripCount": 171,
+          "stops": 41,
+          "lengthKm": 18.27,
+          "stats": {
+            "observations": 797,
+            "matched": 797,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6511577075011488,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sídliště Řepy",
+          "variants": 7,
+          "tripCount": 170,
+          "stops": 42,
+          "lengthKm": 18.29,
+          "stats": {
+            "observations": 798,
+            "matched": 798,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.675387852680186,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "17",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Vozovna Kobylisy",
+          "variants": 30,
+          "tripCount": 16,
+          "stops": 44,
+          "lengthKm": 24.07,
+          "stats": {
+            "observations": 1145,
+            "matched": 1145,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8215220798727245,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Libuš",
+          "variants": 34,
+          "tripCount": 28,
+          "stops": 45,
+          "lengthKm": 24.09,
+          "stats": {
+            "observations": 1146,
+            "matched": 1146,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8234495482030106,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "18",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Vozovna Pankrác",
+          "variants": 18,
+          "tripCount": 25,
+          "stops": 26,
+          "lengthKm": 12.02,
+          "stats": {
+            "observations": 542,
+            "matched": 542,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.714989373068177,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Nádraží Podbaba",
+          "variants": 7,
+          "tripCount": 40,
+          "stops": 27,
+          "lengthKm": 12.13,
+          "stats": {
+            "observations": 553,
+            "matched": 553,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6860761786665461,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "19",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Depo Hostivař",
+          "variants": 5,
+          "tripCount": 80,
+          "stops": 21,
+          "lengthKm": 8.66,
+          "stats": {
+            "observations": 397,
+            "matched": 397,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6272067218783535,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Pankrác",
+          "variants": 2,
+          "tripCount": 168,
+          "stops": 21,
+          "lengthKm": 8.67,
+          "stats": {
+            "observations": 397,
+            "matched": 397,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6714773859046013,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "20",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Dědina",
+          "variants": 13,
+          "tripCount": 178,
+          "stops": 44,
+          "lengthKm": 23.17,
+          "stats": {
+            "observations": 1038,
+            "matched": 1038,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8648688745714534,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sídliště Modřany",
+          "variants": 10,
+          "tripCount": 180,
+          "stops": 43,
+          "lengthKm": 22.9,
+          "stats": {
+            "observations": 1024,
+            "matched": 1024,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8708513028044513,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "21",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Kubánské náměstí",
+          "variants": 16,
+          "tripCount": 154,
+          "stops": 28,
+          "lengthKm": 14.02,
+          "stats": {
+            "observations": 619,
+            "matched": 619,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.700939907794669,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Slivenec",
+          "variants": 13,
+          "tripCount": 151,
+          "stops": 29,
+          "lengthKm": 14.14,
+          "stats": {
+            "observations": 625,
+            "matched": 625,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.683695450189786,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "22",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Nádraží Hostivař",
+          "variants": 16,
+          "tripCount": 77,
+          "stops": 44,
+          "lengthKm": 20.92,
+          "stats": {
+            "observations": 925,
+            "matched": 925,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6475527380847383,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bílá Hora",
+          "variants": 12,
+          "tripCount": 80,
+          "stops": 45,
+          "lengthKm": 20.85,
+          "stats": {
+            "observations": 922,
+            "matched": 922,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.65086611176549,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "23",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bílá labuť",
+          "variants": 10,
+          "tripCount": 57,
+          "stops": 19,
+          "lengthKm": 8.26,
+          "stats": {
+            "observations": 384,
+            "matched": 384,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.671251629882903,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Královka",
+          "variants": 11,
+          "tripCount": 60,
+          "stops": 19,
+          "lengthKm": 8.36,
+          "stats": {
+            "observations": 389,
+            "matched": 389,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6910558557002722,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "24",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Spořilov",
+          "variants": 8,
+          "tripCount": 100,
+          "stops": 41,
+          "lengthKm": 16.73,
+          "stats": {
+            "observations": 791,
+            "matched": 791,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6538815696182627,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Vozovna Kobylisy",
+          "variants": 7,
+          "tripCount": 161,
+          "stops": 39,
+          "lengthKm": 16.71,
+          "stats": {
+            "observations": 791,
+            "matched": 791,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6342726341491909,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "25",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Výstaviště",
+          "variants": 8,
+          "tripCount": 160,
+          "stops": 26,
+          "lengthKm": 12.65,
+          "stats": {
+            "observations": 601,
+            "matched": 601,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6501129551402585,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bílá Hora",
+          "variants": 9,
+          "tripCount": 163,
+          "stops": 27,
+          "lengthKm": 12.6,
+          "stats": {
+            "observations": 599,
+            "matched": 599,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6609813056334288,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "26",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Nádraží Hostivař",
+          "variants": 10,
+          "tripCount": 35,
+          "stops": 57,
+          "lengthKm": 24.95,
+          "stats": {
+            "observations": 1073,
+            "matched": 1073,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6995821298500888,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dědina",
+          "variants": 13,
+          "tripCount": 34,
+          "stops": 59,
+          "lengthKm": 24.95,
+          "stats": {
+            "observations": 1074,
+            "matched": 1074,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7045606043936306,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "31",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Spojovací",
+          "variants": 9,
+          "tripCount": 169,
+          "stops": 14,
+          "lengthKm": 6.45,
+          "stats": {
+            "observations": 300,
+            "matched": 300,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6576277166383446,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Vysočanská",
+          "variants": 9,
+          "tripCount": 166,
+          "stops": 13,
+          "lengthKm": 6.43,
+          "stats": {
+            "observations": 299,
+            "matched": 299,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.68380502043045,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "A",
+      "mode": "tram",
+      "color": "#00A562",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Nemocnice Motol",
+          "variants": 5,
+          "tripCount": 208,
+          "stops": 16,
+          "lengthKm": 16.99,
+          "stats": {
+            "observations": 848,
+            "matched": 848,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.811625007878677,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Depo Hostivař",
+          "variants": 6,
+          "tripCount": 216,
+          "stops": 16,
+          "lengthKm": 16.99,
+          "stats": {
+            "observations": 848,
+            "matched": 848,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.808832313931472,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "B",
+      "mode": "tram",
+      "color": "#F8B322",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Černý Most",
+          "variants": 3,
+          "tripCount": 435,
+          "stops": 24,
+          "lengthKm": 25.72,
+          "stats": {
+            "observations": 1284,
+            "matched": 1284,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.962048457822143,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Zličín",
+          "variants": 5,
+          "tripCount": 441,
+          "stops": 24,
+          "lengthKm": 25.74,
+          "stats": {
+            "observations": 1284,
+            "matched": 1284,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.973920959407696,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "C",
+      "mode": "tram",
+      "color": "#CF003D",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Háje",
+          "variants": 4,
+          "tripCount": 454,
+          "stops": 20,
+          "lengthKm": 22.53,
+          "stats": {
+            "observations": 1122,
+            "matched": 1122,
+            "noCandidates": 0,
+            "viterbiBreaks": 2,
+            "bridged": 0,
+            "rawStretchCount": 2,
+            "rawMeters": 40,
+            "meanError": 5.18720231326445,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Letňany",
+          "variants": 3,
+          "tripCount": 467,
+          "stops": 20,
+          "lengthKm": 22.49,
+          "stats": {
+            "observations": 1122,
+            "matched": 1122,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.1414515670778895,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S1",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Praha Masarykovo nádraží",
+          "variants": 6,
+          "tripCount": 37,
+          "stops": 26,
+          "lengthKm": 61.91,
+          "stats": {
+            "observations": 1819,
+            "matched": 1819,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.707260696697038,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Kutná Hora hl.n.",
+          "variants": 9,
+          "tripCount": 38,
+          "stops": 26,
+          "lengthKm": 61.91,
+          "stats": {
+            "observations": 1818,
+            "matched": 1818,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7079397625163112,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S3",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Mělník",
+          "variants": 4,
+          "tripCount": 30,
+          "stops": 21,
+          "lengthKm": 49.96,
+          "stats": {
+            "observations": 2151,
+            "matched": 2151,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6536641200687449,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Praha hl.n.",
+          "variants": 4,
+          "tripCount": 32,
+          "stops": 21,
+          "lengthKm": 49.96,
+          "stats": {
+            "observations": 2151,
+            "matched": 2151,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.65531029244431,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S4",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ústí nad Labem hl.n.",
+          "variants": 9,
+          "tripCount": 18,
+          "stops": 26,
+          "lengthKm": 55.54,
+          "stats": {
+            "observations": 1744,
+            "matched": 1744,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1349105232859227,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Praha-Bubny",
+          "variants": 7,
+          "tripCount": 21,
+          "stops": 26,
+          "lengthKm": 55.55,
+          "stats": {
+            "observations": 1745,
+            "matched": 1745,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.137530799877578,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S5",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Kralupy nad Vltavou",
+          "variants": 4,
+          "tripCount": 31,
+          "stops": 19,
+          "lengthKm": 31.32,
+          "stats": {
+            "observations": 1507,
+            "matched": 1507,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.3278702503291961,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Praha-Bubny",
+          "variants": 5,
+          "tripCount": 35,
+          "stops": 19,
+          "lengthKm": 31.33,
+          "stats": {
+            "observations": 1507,
+            "matched": 1507,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.3312294680058825,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S6",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Beroun",
+          "variants": 4,
+          "tripCount": 22,
+          "stops": 19,
+          "lengthKm": 33.05,
+          "stats": {
+            "observations": 1622,
+            "matched": 1622,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5392750728540303,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Praha-Smíchov",
+          "variants": 4,
+          "tripCount": 22,
+          "stops": 19,
+          "lengthKm": 33.06,
+          "stats": {
+            "observations": 1623,
+            "matched": 1623,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5612698926445533,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S7",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Beroun",
+          "variants": 11,
+          "tripCount": 127,
+          "stops": 23,
+          "lengthKm": 42.87,
+          "stats": {
+            "observations": 1577,
+            "matched": 1577,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6301039953314063,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Praha hl.n.",
+          "variants": 10,
+          "tripCount": 70,
+          "stops": 23,
+          "lengthKm": 42.88,
+          "stats": {
+            "observations": 1578,
+            "matched": 1578,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6164838267303745,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S8",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Praha hl.n.",
+          "variants": 10,
+          "tripCount": 30,
+          "stops": 31,
+          "lengthKm": 58.75,
+          "stats": {
+            "observations": 2938,
+            "matched": 2938,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4015387514551212,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Čerčany",
+          "variants": 7,
+          "tripCount": 27,
+          "stops": 31,
+          "lengthKm": 58.74,
+          "stats": {
+            "observations": 2938,
+            "matched": 2938,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4047331143948086,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S9",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Milovice",
+          "variants": 7,
+          "tripCount": 12,
+          "stops": 27,
+          "lengthKm": 67.84,
+          "stats": {
+            "observations": 2690,
+            "matched": 2690,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.865221240365514,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Strančice",
+          "variants": 7,
+          "tripCount": 17,
+          "stops": 27,
+          "lengthKm": 67.84,
+          "stats": {
+            "observations": 2690,
+            "matched": 2690,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.86494209290083,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S22",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Praha hl.n.",
+          "variants": 2,
+          "tripCount": 21,
+          "stops": 15,
+          "lengthKm": 40.05,
+          "stats": {
+            "observations": 1559,
+            "matched": 1559,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3349342647516902,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Milovice",
+          "variants": 2,
+          "tripCount": 22,
+          "stops": 15,
+          "lengthKm": 40.05,
+          "stats": {
+            "observations": 1559,
+            "matched": 1559,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3371326829117693,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S23",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Neratovice",
+          "variants": 3,
+          "tripCount": 13,
+          "stops": 16,
+          "lengthKm": 23.82,
+          "stats": {
+            "observations": 1192,
+            "matched": 1192,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.05067144809766352,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Čelákovice",
+          "variants": 3,
+          "tripCount": 14,
+          "stops": 16,
+          "lengthKm": 23.81,
+          "stats": {
+            "observations": 1192,
+            "matched": 1192,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.05027268607638735,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S34",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Praha-Čakovice",
+          "variants": 2,
+          "tripCount": 15,
+          "stops": 11,
+          "lengthKm": 18.77,
+          "stats": {
+            "observations": 892,
+            "matched": 892,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9383854181541172,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Praha Masarykovo nádraží",
+          "variants": 2,
+          "tripCount": 15,
+          "stops": 11,
+          "lengthKm": 18.77,
+          "stats": {
+            "observations": 892,
+            "matched": 892,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9474747944779357,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S40",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Slaný",
+          "variants": 1,
+          "tripCount": 26,
+          "stops": 11,
+          "lengthKm": 19.86,
+          "stats": {
+            "observations": 993,
+            "matched": 993,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.13273752902347818,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Praha-Holešovice",
+          "variants": 1,
+          "tripCount": 27,
+          "stops": 11,
+          "lengthKm": 19.85,
+          "stats": {
+            "observations": 993,
+            "matched": 993,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.16219708119820436,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S43",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Roudnice nad Labem",
+          "variants": 1,
+          "tripCount": 17,
+          "stops": 7,
+          "lengthKm": 17.86,
+          "stats": {
+            "observations": 843,
+            "matched": 843,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.1708456011669806,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Neratovice",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 7,
+          "lengthKm": 17.86,
+          "stats": {
+            "observations": 842,
+            "matched": 842,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.16358501961491828,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S44",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Velvary",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 6,
+          "lengthKm": 9.73,
+          "stats": {
+            "observations": 473,
+            "matched": 473,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.20917281277851899,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Kralupy nad Vltavou",
+          "variants": 1,
+          "tripCount": 29,
+          "stops": 6,
+          "lengthKm": 9.73,
+          "stats": {
+            "observations": 472,
+            "matched": 472,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.24643861548237947,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S45",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Kralupy nad Vltavou",
+          "variants": 4,
+          "tripCount": 5,
+          "stops": 12,
+          "lengthKm": 25.04,
+          "stats": {
+            "observations": 1209,
+            "matched": 1209,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.33819488348570487,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Praha-Bubny",
+          "variants": 3,
+          "tripCount": 22,
+          "stops": 10,
+          "lengthKm": 21.42,
+          "stats": {
+            "observations": 1071,
+            "matched": 1071,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.10746820778667295,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S49",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Roztoky u Prahy",
+          "variants": 4,
+          "tripCount": 25,
+          "stops": 12,
+          "lengthKm": 22.12,
+          "stats": {
+            "observations": 955,
+            "matched": 955,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3287025187336468,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Praha-Hostivař",
+          "variants": 4,
+          "tripCount": 34,
+          "stops": 12,
+          "lengthKm": 22.12,
+          "stats": {
+            "observations": 955,
+            "matched": 955,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3311349818395175,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S54",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Slaný",
+          "variants": 5,
+          "tripCount": 2,
+          "stops": 21,
+          "lengthKm": 37.25,
+          "stats": {
+            "observations": 1835,
+            "matched": 1835,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.12284961731468534,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Hostivice",
+          "variants": 4,
+          "tripCount": 2,
+          "stops": 21,
+          "lengthKm": 37.26,
+          "stats": {
+            "observations": 1836,
+            "matched": 1836,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.12260283777964152,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S61",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Praha hl.n.",
+          "variants": 2,
+          "tripCount": 50,
+          "stops": 11,
+          "lengthKm": 22.17,
+          "stats": {
+            "observations": 953,
+            "matched": 953,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.45842039275459306,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Úvaly",
+          "variants": 2,
+          "tripCount": 50,
+          "stops": 11,
+          "lengthKm": 22.17,
+          "stats": {
+            "observations": 954,
+            "matched": 954,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.46148073212779445,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S65",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rudná u Prahy",
+          "variants": 4,
+          "tripCount": 14,
+          "stops": 19,
+          "lengthKm": 30.44,
+          "stats": {
+            "observations": 1428,
+            "matched": 1367,
+            "noCandidates": 61,
+            "viterbiBreaks": 3,
+            "bridged": 0,
+            "rawStretchCount": 3,
+            "rawMeters": 60,
+            "meanError": 7.254841622532326,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Praha-Smíchov",
+          "variants": 5,
+          "tripCount": 15,
+          "stops": 19,
+          "lengthKm": 28.05,
+          "stats": {
+            "observations": 1370,
+            "matched": 1309,
+            "noCandidates": 61,
+            "viterbiBreaks": 3,
+            "bridged": 0,
+            "rawStretchCount": 3,
+            "rawMeters": 60,
+            "meanError": 6.4290137463839585,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "S88",
+      "mode": "tram",
+      "color": "#251E62",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Praha hl.n.",
+          "variants": 3,
+          "tripCount": 19,
+          "stops": 29,
+          "lengthKm": 53.68,
+          "stats": {
+            "observations": 2659,
+            "matched": 2659,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.3785577117252958,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dobříš",
+          "variants": 3,
+          "tripCount": 19,
+          "stops": 29,
+          "lengthKm": 53.68,
+          "stats": {
+            "observations": 2660,
+            "matched": 2660,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.378019102039232,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
       "line": "901",
       "mode": "bus",
       "color": "#000000",
@@ -14596,1306 +17046,6 @@
       "rank": 2
     },
     {
-      "line": "1",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Výstaviště",
-          "variants": 7,
-          "tripCount": 165,
-          "stops": 22,
-          "lengthKm": 10.71,
-          "stats": {
-            "observations": 449,
-            "matched": 449,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6972904163817688,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sídliště Petřiny",
-          "variants": 12,
-          "tripCount": 168,
-          "stops": 23,
-          "lengthKm": 10.7,
-          "stats": {
-            "observations": 449,
-            "matched": 449,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.712695014681419,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "2",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Náměstí Bratří Synků",
-          "variants": 18,
-          "tripCount": 96,
-          "stops": 25,
-          "lengthKm": 11.44,
-          "stats": {
-            "observations": 472,
-            "matched": 472,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.7024109805360212,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sídliště Petřiny",
-          "variants": 17,
-          "tripCount": 96,
-          "stops": 24,
-          "lengthKm": 11.36,
-          "stats": {
-            "observations": 469,
-            "matched": 469,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.7110253914843538,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "3",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Kobylisy",
-          "variants": 17,
-          "tripCount": 45,
-          "stops": 41,
-          "lengthKm": 20.27,
-          "stats": {
-            "observations": 953,
-            "matched": 953,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8257286458943351,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sídliště Modřany",
-          "variants": 14,
-          "tripCount": 37,
-          "stops": 42,
-          "lengthKm": 20.24,
-          "stats": {
-            "observations": 951,
-            "matched": 951,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8249775660950391,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "4",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Čechovo náměstí",
-          "variants": 9,
-          "tripCount": 190,
-          "stops": 17,
-          "lengthKm": 6.99,
-          "stats": {
-            "observations": 316,
-            "matched": 316,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.7124809539565375,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Radlická",
-          "variants": 12,
-          "tripCount": 194,
-          "stops": 18,
-          "lengthKm": 6.99,
-          "stats": {
-            "observations": 315,
-            "matched": 315,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.685374946771503,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "5",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Nádraží Holešovice",
-          "variants": 10,
-          "tripCount": 191,
-          "stops": 33,
-          "lengthKm": 15.48,
-          "stats": {
-            "observations": 740,
-            "matched": 740,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6399558410434387,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Slivenec",
-          "variants": 7,
-          "tripCount": 196,
-          "stops": 33,
-          "lengthKm": 15.46,
-          "stats": {
-            "observations": 739,
-            "matched": 739,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.633423112583736,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "6",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Kubánské náměstí",
-          "variants": 9,
-          "tripCount": 173,
-          "stops": 24,
-          "lengthKm": 10.34,
-          "stats": {
-            "observations": 464,
-            "matched": 464,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.699611756154119,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Nádraží Holešovice",
-          "variants": 8,
-          "tripCount": 171,
-          "stops": 24,
-          "lengthKm": 10.45,
-          "stats": {
-            "observations": 471,
-            "matched": 471,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.7070994815425053,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "7",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Lehovec",
-          "variants": 7,
-          "tripCount": 75,
-          "stops": 48,
-          "lengthKm": 22.35,
-          "stats": {
-            "observations": 1014,
-            "matched": 1014,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.698626302534539,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Kotlářka",
-          "variants": 8,
-          "tripCount": 184,
-          "stops": 43,
-          "lengthKm": 20.31,
-          "stats": {
-            "observations": 916,
-            "matched": 916,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.7061113165079163,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "8",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Starý Hloubětín",
-          "variants": 4,
-          "tripCount": 164,
-          "stops": 28,
-          "lengthKm": 14.04,
-          "stats": {
-            "observations": 613,
-            "matched": 613,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.668621459744775,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Nádraží Podbaba",
-          "variants": 3,
-          "tripCount": 161,
-          "stops": 29,
-          "lengthKm": 14.08,
-          "stats": {
-            "observations": 615,
-            "matched": 615,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6738484100644855,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "9",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Spojovací",
-          "variants": 7,
-          "tripCount": 326,
-          "stops": 40,
-          "lengthKm": 18.58,
-          "stats": {
-            "observations": 869,
-            "matched": 869,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.647009827490646,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sídliště Řepy",
-          "variants": 7,
-          "tripCount": 333,
-          "stops": 40,
-          "lengthKm": 18.57,
-          "stats": {
-            "observations": 869,
-            "matched": 869,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6733485069550411,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "10",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Sídliště Ďáblice",
-          "variants": 2,
-          "tripCount": 173,
-          "stops": 46,
-          "lengthKm": 22.18,
-          "stats": {
-            "observations": 1031,
-            "matched": 1031,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.653777815096983,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sídliště Řepy",
-          "variants": 3,
-          "tripCount": 173,
-          "stops": 49,
-          "lengthKm": 22.33,
-          "stats": {
-            "observations": 1038,
-            "matched": 1038,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6567644054815265,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "11",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Spojovací",
-          "variants": 10,
-          "tripCount": 174,
-          "stops": 30,
-          "lengthKm": 12.79,
-          "stats": {
-            "observations": 641,
-            "matched": 641,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6682848122460912,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Spořilov",
-          "variants": 8,
-          "tripCount": 177,
-          "stops": 30,
-          "lengthKm": 12.77,
-          "stats": {
-            "observations": 639,
-            "matched": 639,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6688846647661562,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "12",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Lehovec",
-          "variants": 10,
-          "tripCount": 181,
-          "stops": 46,
-          "lengthKm": 22.79,
-          "stats": {
-            "observations": 1023,
-            "matched": 1023,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6575345045120873,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sídliště Barrandov",
-          "variants": 5,
-          "tripCount": 180,
-          "stops": 47,
-          "lengthKm": 22.82,
-          "stats": {
-            "observations": 1025,
-            "matched": 1025,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6698175005706226,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "13",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Olšanské hřbitovy",
-          "variants": 10,
-          "tripCount": 135,
-          "stops": 10,
-          "lengthKm": 3.5,
-          "stats": {
-            "observations": 176,
-            "matched": 176,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.7188982445368484,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Zvonařka",
-          "variants": 10,
-          "tripCount": 151,
-          "stops": 10,
-          "lengthKm": 3.47,
-          "stats": {
-            "observations": 175,
-            "matched": 175,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.7051264494530487,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "15",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Olšanské hřbitovy",
-          "variants": 18,
-          "tripCount": 154,
-          "stops": 28,
-          "lengthKm": 15.08,
-          "stats": {
-            "observations": 724,
-            "matched": 724,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6750159796411779,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sídliště Barrandov",
-          "variants": 11,
-          "tripCount": 161,
-          "stops": 28,
-          "lengthKm": 15.1,
-          "stats": {
-            "observations": 725,
-            "matched": 725,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6985597828993204,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "16",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ústřední dílny DP",
-          "variants": 5,
-          "tripCount": 171,
-          "stops": 41,
-          "lengthKm": 18.27,
-          "stats": {
-            "observations": 797,
-            "matched": 797,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6511577075011488,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sídliště Řepy",
-          "variants": 7,
-          "tripCount": 170,
-          "stops": 42,
-          "lengthKm": 18.29,
-          "stats": {
-            "observations": 798,
-            "matched": 798,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.675387852680186,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "17",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Vozovna Kobylisy",
-          "variants": 30,
-          "tripCount": 16,
-          "stops": 44,
-          "lengthKm": 24.07,
-          "stats": {
-            "observations": 1145,
-            "matched": 1145,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8215220798727245,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Libuš",
-          "variants": 34,
-          "tripCount": 28,
-          "stops": 45,
-          "lengthKm": 24.09,
-          "stats": {
-            "observations": 1146,
-            "matched": 1146,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8234495482030106,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "18",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Vozovna Pankrác",
-          "variants": 18,
-          "tripCount": 25,
-          "stops": 26,
-          "lengthKm": 12.02,
-          "stats": {
-            "observations": 542,
-            "matched": 542,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.714989373068177,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Nádraží Podbaba",
-          "variants": 7,
-          "tripCount": 40,
-          "stops": 27,
-          "lengthKm": 12.13,
-          "stats": {
-            "observations": 553,
-            "matched": 553,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6860761786665461,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "19",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Depo Hostivař",
-          "variants": 5,
-          "tripCount": 80,
-          "stops": 21,
-          "lengthKm": 8.66,
-          "stats": {
-            "observations": 397,
-            "matched": 397,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6272067218783535,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Pankrác",
-          "variants": 2,
-          "tripCount": 168,
-          "stops": 21,
-          "lengthKm": 8.67,
-          "stats": {
-            "observations": 397,
-            "matched": 397,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6714773859046013,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "20",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Dědina",
-          "variants": 13,
-          "tripCount": 178,
-          "stops": 44,
-          "lengthKm": 23.17,
-          "stats": {
-            "observations": 1038,
-            "matched": 1038,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8648688745714534,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sídliště Modřany",
-          "variants": 10,
-          "tripCount": 180,
-          "stops": 43,
-          "lengthKm": 22.9,
-          "stats": {
-            "observations": 1024,
-            "matched": 1024,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8708513028044513,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "21",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Kubánské náměstí",
-          "variants": 16,
-          "tripCount": 154,
-          "stops": 28,
-          "lengthKm": 14.02,
-          "stats": {
-            "observations": 619,
-            "matched": 619,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.700939907794669,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Slivenec",
-          "variants": 13,
-          "tripCount": 151,
-          "stops": 29,
-          "lengthKm": 14.14,
-          "stats": {
-            "observations": 625,
-            "matched": 625,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.683695450189786,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "22",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Nádraží Hostivař",
-          "variants": 16,
-          "tripCount": 77,
-          "stops": 44,
-          "lengthKm": 20.92,
-          "stats": {
-            "observations": 925,
-            "matched": 925,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6475527380847383,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bílá Hora",
-          "variants": 12,
-          "tripCount": 80,
-          "stops": 45,
-          "lengthKm": 20.85,
-          "stats": {
-            "observations": 922,
-            "matched": 922,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.65086611176549,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "23",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bílá labuť",
-          "variants": 10,
-          "tripCount": 57,
-          "stops": 19,
-          "lengthKm": 8.26,
-          "stats": {
-            "observations": 384,
-            "matched": 384,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.671251629882903,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Královka",
-          "variants": 11,
-          "tripCount": 60,
-          "stops": 19,
-          "lengthKm": 8.36,
-          "stats": {
-            "observations": 389,
-            "matched": 389,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6910558557002722,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "24",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Spořilov",
-          "variants": 8,
-          "tripCount": 100,
-          "stops": 41,
-          "lengthKm": 16.73,
-          "stats": {
-            "observations": 791,
-            "matched": 791,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6538815696182627,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Vozovna Kobylisy",
-          "variants": 7,
-          "tripCount": 161,
-          "stops": 39,
-          "lengthKm": 16.71,
-          "stats": {
-            "observations": 791,
-            "matched": 791,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6342726341491909,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "25",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Výstaviště",
-          "variants": 8,
-          "tripCount": 160,
-          "stops": 26,
-          "lengthKm": 12.65,
-          "stats": {
-            "observations": 601,
-            "matched": 601,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6501129551402585,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bílá Hora",
-          "variants": 9,
-          "tripCount": 163,
-          "stops": 27,
-          "lengthKm": 12.6,
-          "stats": {
-            "observations": 599,
-            "matched": 599,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6609813056334288,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "26",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Nádraží Hostivař",
-          "variants": 10,
-          "tripCount": 35,
-          "stops": 57,
-          "lengthKm": 24.95,
-          "stats": {
-            "observations": 1073,
-            "matched": 1073,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6995821298500888,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Dědina",
-          "variants": 13,
-          "tripCount": 34,
-          "stops": 59,
-          "lengthKm": 24.95,
-          "stats": {
-            "observations": 1074,
-            "matched": 1074,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.7045606043936306,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "31",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Spojovací",
-          "variants": 9,
-          "tripCount": 169,
-          "stops": 14,
-          "lengthKm": 6.45,
-          "stats": {
-            "observations": 300,
-            "matched": 300,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6576277166383446,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Vysočanská",
-          "variants": 9,
-          "tripCount": 166,
-          "stops": 13,
-          "lengthKm": 6.43,
-          "stats": {
-            "observations": 299,
-            "matched": 299,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.68380502043045,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
       "line": "91",
       "mode": "tram",
       "color": "#000000",
@@ -16344,1156 +17494,6 @@
         }
       ],
       "rank": 2
-    },
-    {
-      "line": "A",
-      "mode": "tram",
-      "color": "#00A562",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Nemocnice Motol",
-          "variants": 5,
-          "tripCount": 208,
-          "stops": 16,
-          "lengthKm": 16.99,
-          "stats": {
-            "observations": 848,
-            "matched": 848,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.811625007878677,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Depo Hostivař",
-          "variants": 6,
-          "tripCount": 216,
-          "stops": 16,
-          "lengthKm": 16.99,
-          "stats": {
-            "observations": 848,
-            "matched": 848,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.808832313931472,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "B",
-      "mode": "tram",
-      "color": "#F8B322",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Černý Most",
-          "variants": 3,
-          "tripCount": 435,
-          "stops": 24,
-          "lengthKm": 25.72,
-          "stats": {
-            "observations": 1284,
-            "matched": 1284,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.962048457822143,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Zličín",
-          "variants": 5,
-          "tripCount": 441,
-          "stops": 24,
-          "lengthKm": 25.74,
-          "stats": {
-            "observations": 1284,
-            "matched": 1284,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.973920959407696,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "C",
-      "mode": "tram",
-      "color": "#CF003D",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Háje",
-          "variants": 4,
-          "tripCount": 454,
-          "stops": 20,
-          "lengthKm": 22.53,
-          "stats": {
-            "observations": 1122,
-            "matched": 1122,
-            "noCandidates": 0,
-            "viterbiBreaks": 2,
-            "bridged": 0,
-            "rawStretchCount": 2,
-            "rawMeters": 40,
-            "meanError": 5.18720231326445,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Letňany",
-          "variants": 3,
-          "tripCount": 467,
-          "stops": 20,
-          "lengthKm": 22.49,
-          "stats": {
-            "observations": 1122,
-            "matched": 1122,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.1414515670778895,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S1",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Praha Masarykovo nádraží",
-          "variants": 6,
-          "tripCount": 37,
-          "stops": 26,
-          "lengthKm": 61.91,
-          "stats": {
-            "observations": 1819,
-            "matched": 1819,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.707260696697038,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Kutná Hora hl.n.",
-          "variants": 9,
-          "tripCount": 38,
-          "stops": 26,
-          "lengthKm": 61.91,
-          "stats": {
-            "observations": 1818,
-            "matched": 1818,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.7079397625163112,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S3",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Mělník",
-          "variants": 4,
-          "tripCount": 30,
-          "stops": 21,
-          "lengthKm": 49.96,
-          "stats": {
-            "observations": 2151,
-            "matched": 2151,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.6536641200687449,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Praha hl.n.",
-          "variants": 4,
-          "tripCount": 32,
-          "stops": 21,
-          "lengthKm": 49.96,
-          "stats": {
-            "observations": 2151,
-            "matched": 2151,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.65531029244431,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S4",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ústí nad Labem hl.n.",
-          "variants": 9,
-          "tripCount": 18,
-          "stops": 26,
-          "lengthKm": 55.54,
-          "stats": {
-            "observations": 1744,
-            "matched": 1744,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.1349105232859227,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Praha-Bubny",
-          "variants": 7,
-          "tripCount": 21,
-          "stops": 26,
-          "lengthKm": 55.55,
-          "stats": {
-            "observations": 1745,
-            "matched": 1745,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.137530799877578,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S5",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Kralupy nad Vltavou",
-          "variants": 4,
-          "tripCount": 31,
-          "stops": 19,
-          "lengthKm": 31.32,
-          "stats": {
-            "observations": 1507,
-            "matched": 1507,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.3278702503291961,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Praha-Bubny",
-          "variants": 5,
-          "tripCount": 35,
-          "stops": 19,
-          "lengthKm": 31.33,
-          "stats": {
-            "observations": 1507,
-            "matched": 1507,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.3312294680058825,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S6",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Beroun",
-          "variants": 4,
-          "tripCount": 22,
-          "stops": 19,
-          "lengthKm": 33.05,
-          "stats": {
-            "observations": 1622,
-            "matched": 1622,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.5392750728540303,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Praha-Smíchov",
-          "variants": 4,
-          "tripCount": 22,
-          "stops": 19,
-          "lengthKm": 33.06,
-          "stats": {
-            "observations": 1623,
-            "matched": 1623,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.5612698926445533,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S7",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Beroun",
-          "variants": 11,
-          "tripCount": 127,
-          "stops": 23,
-          "lengthKm": 42.87,
-          "stats": {
-            "observations": 1577,
-            "matched": 1577,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.6301039953314063,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Praha hl.n.",
-          "variants": 10,
-          "tripCount": 70,
-          "stops": 23,
-          "lengthKm": 42.88,
-          "stats": {
-            "observations": 1578,
-            "matched": 1578,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.6164838267303745,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S8",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Praha hl.n.",
-          "variants": 10,
-          "tripCount": 30,
-          "stops": 31,
-          "lengthKm": 58.75,
-          "stats": {
-            "observations": 2938,
-            "matched": 2938,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.4015387514551212,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Čerčany",
-          "variants": 7,
-          "tripCount": 27,
-          "stops": 31,
-          "lengthKm": 58.74,
-          "stats": {
-            "observations": 2938,
-            "matched": 2938,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.4047331143948086,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S9",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Milovice",
-          "variants": 7,
-          "tripCount": 12,
-          "stops": 27,
-          "lengthKm": 67.84,
-          "stats": {
-            "observations": 2690,
-            "matched": 2690,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.865221240365514,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Strančice",
-          "variants": 7,
-          "tripCount": 17,
-          "stops": 27,
-          "lengthKm": 67.84,
-          "stats": {
-            "observations": 2690,
-            "matched": 2690,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.86494209290083,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S22",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Praha hl.n.",
-          "variants": 2,
-          "tripCount": 21,
-          "stops": 15,
-          "lengthKm": 40.05,
-          "stats": {
-            "observations": 1559,
-            "matched": 1559,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.3349342647516902,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Milovice",
-          "variants": 2,
-          "tripCount": 22,
-          "stops": 15,
-          "lengthKm": 40.05,
-          "stats": {
-            "observations": 1559,
-            "matched": 1559,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.3371326829117693,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S23",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Neratovice",
-          "variants": 3,
-          "tripCount": 13,
-          "stops": 16,
-          "lengthKm": 23.82,
-          "stats": {
-            "observations": 1192,
-            "matched": 1192,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.05067144809766352,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Čelákovice",
-          "variants": 3,
-          "tripCount": 14,
-          "stops": 16,
-          "lengthKm": 23.81,
-          "stats": {
-            "observations": 1192,
-            "matched": 1192,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.05027268607638735,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S34",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Praha-Čakovice",
-          "variants": 2,
-          "tripCount": 15,
-          "stops": 11,
-          "lengthKm": 18.77,
-          "stats": {
-            "observations": 892,
-            "matched": 892,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.9383854181541172,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Praha Masarykovo nádraží",
-          "variants": 2,
-          "tripCount": 15,
-          "stops": 11,
-          "lengthKm": 18.77,
-          "stats": {
-            "observations": 892,
-            "matched": 892,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.9474747944779357,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S40",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Slaný",
-          "variants": 1,
-          "tripCount": 26,
-          "stops": 11,
-          "lengthKm": 19.86,
-          "stats": {
-            "observations": 993,
-            "matched": 993,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.13273752902347818,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Praha-Holešovice",
-          "variants": 1,
-          "tripCount": 27,
-          "stops": 11,
-          "lengthKm": 19.85,
-          "stats": {
-            "observations": 993,
-            "matched": 993,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.16219708119820436,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S43",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Roudnice nad Labem",
-          "variants": 1,
-          "tripCount": 17,
-          "stops": 7,
-          "lengthKm": 17.86,
-          "stats": {
-            "observations": 843,
-            "matched": 843,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.1708456011669806,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Neratovice",
-          "variants": 1,
-          "tripCount": 18,
-          "stops": 7,
-          "lengthKm": 17.86,
-          "stats": {
-            "observations": 842,
-            "matched": 842,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.16358501961491828,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S44",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Velvary",
-          "variants": 1,
-          "tripCount": 28,
-          "stops": 6,
-          "lengthKm": 9.73,
-          "stats": {
-            "observations": 473,
-            "matched": 473,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.20917281277851899,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Kralupy nad Vltavou",
-          "variants": 1,
-          "tripCount": 29,
-          "stops": 6,
-          "lengthKm": 9.73,
-          "stats": {
-            "observations": 472,
-            "matched": 472,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.24643861548237947,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S45",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Kralupy nad Vltavou",
-          "variants": 4,
-          "tripCount": 5,
-          "stops": 12,
-          "lengthKm": 25.04,
-          "stats": {
-            "observations": 1209,
-            "matched": 1209,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.33819488348570487,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Praha-Bubny",
-          "variants": 3,
-          "tripCount": 22,
-          "stops": 10,
-          "lengthKm": 21.42,
-          "stats": {
-            "observations": 1071,
-            "matched": 1071,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.10746820778667295,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S49",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Roztoky u Prahy",
-          "variants": 4,
-          "tripCount": 25,
-          "stops": 12,
-          "lengthKm": 22.12,
-          "stats": {
-            "observations": 955,
-            "matched": 955,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.3287025187336468,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Praha-Hostivař",
-          "variants": 4,
-          "tripCount": 34,
-          "stops": 12,
-          "lengthKm": 22.12,
-          "stats": {
-            "observations": 955,
-            "matched": 955,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.3311349818395175,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S54",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Slaný",
-          "variants": 5,
-          "tripCount": 2,
-          "stops": 21,
-          "lengthKm": 37.25,
-          "stats": {
-            "observations": 1835,
-            "matched": 1835,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.12284961731468534,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Hostivice",
-          "variants": 4,
-          "tripCount": 2,
-          "stops": 21,
-          "lengthKm": 37.26,
-          "stats": {
-            "observations": 1836,
-            "matched": 1836,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.12260283777964152,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S61",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Praha hl.n.",
-          "variants": 2,
-          "tripCount": 50,
-          "stops": 11,
-          "lengthKm": 22.17,
-          "stats": {
-            "observations": 953,
-            "matched": 953,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.45842039275459306,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Úvaly",
-          "variants": 2,
-          "tripCount": 50,
-          "stops": 11,
-          "lengthKm": 22.17,
-          "stats": {
-            "observations": 954,
-            "matched": 954,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.46148073212779445,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S65",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Rudná u Prahy",
-          "variants": 4,
-          "tripCount": 14,
-          "stops": 19,
-          "lengthKm": 30.44,
-          "stats": {
-            "observations": 1428,
-            "matched": 1367,
-            "noCandidates": 61,
-            "viterbiBreaks": 3,
-            "bridged": 0,
-            "rawStretchCount": 3,
-            "rawMeters": 60,
-            "meanError": 7.254841622532326,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Praha-Smíchov",
-          "variants": 5,
-          "tripCount": 15,
-          "stops": 19,
-          "lengthKm": 28.05,
-          "stats": {
-            "observations": 1370,
-            "matched": 1309,
-            "noCandidates": 61,
-            "viterbiBreaks": 3,
-            "bridged": 0,
-            "rawStretchCount": 3,
-            "rawMeters": 60,
-            "meanError": 6.4290137463839585,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "S88",
-      "mode": "tram",
-      "color": "#251E62",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Praha hl.n.",
-          "variants": 3,
-          "tripCount": 19,
-          "stops": 29,
-          "lengthKm": 53.68,
-          "stats": {
-            "observations": 2659,
-            "matched": 2659,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.3785577117252958,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Dobříš",
-          "variants": 3,
-          "tripCount": 19,
-          "stops": 29,
-          "lengthKm": 53.68,
-          "stats": {
-            "observations": 2660,
-            "matched": 2660,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.378019102039232,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
     }
   ]
 }
