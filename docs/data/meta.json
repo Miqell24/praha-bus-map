@@ -7949,7 +7949,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Luka",
+          "headsign": "Praha, Luka",
           "variants": 1,
           "tripCount": 19,
           "stops": 14,
@@ -7978,7 +7978,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Veleň,u pomníku",
+          "headsign": "Veleň, u pomníku",
           "variants": 3,
           "tripCount": 12,
           "stops": 21,
@@ -7999,7 +7999,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Letňany",
+          "headsign": "Praha, Letňany",
           "variants": 3,
           "tripCount": 13,
           "stops": 18,
@@ -8049,7 +8049,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Černý Most",
+          "headsign": "Praha, Černý Most",
           "variants": 7,
           "tripCount": 25,
           "stops": 28,
@@ -8078,7 +8078,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Jeneč,Lidická",
+          "headsign": "Jeneč, Lidická",
           "variants": 19,
           "tripCount": 28,
           "stops": 15,
@@ -8099,7 +8099,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Zličín",
+          "headsign": "Praha, Zličín",
           "variants": 17,
           "tripCount": 6,
           "stops": 32,
@@ -8128,7 +8128,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Kladno,autobusové nádraží",
+          "headsign": "Kladno, autobusové nádraží",
           "variants": 6,
           "tripCount": 8,
           "stops": 37,
@@ -8149,7 +8149,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Zličín",
+          "headsign": "Praha, Zličín",
           "variants": 6,
           "tripCount": 10,
           "stops": 37,
@@ -8178,7 +8178,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Nučice,Prokopská náves",
+          "headsign": "Nučice, Prokopská náves",
           "variants": 3,
           "tripCount": 5,
           "stops": 16,
@@ -8199,7 +8199,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Zličín",
+          "headsign": "Praha, Zličín",
           "variants": 2,
           "tripCount": 5,
           "stops": 17,
@@ -8228,7 +8228,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Praha,Nádraží Radotín",
+          "headsign": "Praha, Nádraží Radotín",
           "variants": 2,
           "tripCount": 9,
           "stops": 23,
@@ -8249,7 +8249,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Zličín",
+          "headsign": "Praha, Zličín",
           "variants": 3,
           "tripCount": 7,
           "stops": 22,
@@ -8278,7 +8278,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Rudná,Zdrav.stř.",
+          "headsign": "Rudná, Zdrav.stř.",
           "variants": 3,
           "tripCount": 7,
           "stops": 15,
@@ -8299,7 +8299,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Zličín",
+          "headsign": "Praha, Zličín",
           "variants": 3,
           "tripCount": 7,
           "stops": 15,
@@ -8328,7 +8328,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Řevnice,nádraží",
+          "headsign": "Řevnice, nádraží",
           "variants": 15,
           "tripCount": 11,
           "stops": 41,
@@ -8349,7 +8349,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Zličín",
+          "headsign": "Praha, Zličín",
           "variants": 11,
           "tripCount": 12,
           "stops": 41,
@@ -8378,7 +8378,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Středokluky,u školy",
+          "headsign": "Středokluky, u školy",
           "variants": 8,
           "tripCount": 5,
           "stops": 23,
@@ -8399,7 +8399,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Bořislavka",
+          "headsign": "Praha, Bořislavka",
           "variants": 10,
           "tripCount": 4,
           "stops": 24,
@@ -8428,7 +8428,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Černošice,žel.zast.",
+          "headsign": "Černošice, žel.zast.",
           "variants": 5,
           "tripCount": 2,
           "stops": 22,
@@ -8449,7 +8449,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Nádraží Radotín",
+          "headsign": "Praha, Nádraží Radotín",
           "variants": 6,
           "tripCount": 3,
           "stops": 20,
@@ -8478,7 +8478,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Kralupy n.Vlt.,žel.st.",
+          "headsign": "Kralupy n.Vlt., žel.st.",
           "variants": 2,
           "tripCount": 13,
           "stops": 27,
@@ -8499,7 +8499,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Bořislavka",
+          "headsign": "Praha, Bořislavka",
           "variants": 4,
           "tripCount": 13,
           "stops": 26,
@@ -8549,7 +8549,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Smíchovské nádraží",
+          "headsign": "Praha, Smíchovské nádraží",
           "variants": 4,
           "tripCount": 103,
           "stops": 16,
@@ -8578,7 +8578,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Brandýs n.L.-St.Bol.,nádr.",
+          "headsign": "Brandýs n.L.-St.Bol., nádr.",
           "variants": 3,
           "tripCount": 14,
           "stops": 28,
@@ -8599,7 +8599,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Letňany",
+          "headsign": "Praha, Letňany",
           "variants": 2,
           "tripCount": 16,
           "stops": 29,
@@ -8628,7 +8628,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Kladno,autobusové nádraží",
+          "headsign": "Kladno, autobusové nádraží",
           "variants": 4,
           "tripCount": 28,
           "stops": 31,
@@ -8649,7 +8649,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Nádraží Veleslavín",
+          "headsign": "Praha, Nádraží Veleslavín",
           "variants": 2,
           "tripCount": 28,
           "stops": 30,
@@ -8678,7 +8678,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Čestlice,aquapark",
+          "headsign": "Čestlice, aquapark",
           "variants": 1,
           "tripCount": 21,
           "stops": 13,
@@ -8699,7 +8699,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Nádraží Uhříněves",
+          "headsign": "Praha, Nádraží Uhříněves",
           "variants": 1,
           "tripCount": 25,
           "stops": 13,
@@ -8728,7 +8728,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Jesenice,Belnická",
+          "headsign": "Jesenice, Belnická",
           "variants": 3,
           "tripCount": 6,
           "stops": 21,
@@ -8749,7 +8749,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Volha",
+          "headsign": "Praha, Volha",
           "variants": 4,
           "tripCount": 5,
           "stops": 22,
@@ -8799,7 +8799,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Opatov",
+          "headsign": "Praha, Opatov",
           "variants": 1,
           "tripCount": 52,
           "stops": 19,
@@ -8828,7 +8828,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Dobřejovice,Košumberk",
+          "headsign": "Dobřejovice, Košumberk",
           "variants": 5,
           "tripCount": 8,
           "stops": 14,
@@ -8849,7 +8849,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Opatov",
+          "headsign": "Praha, Opatov",
           "variants": 5,
           "tripCount": 2,
           "stops": 14,
@@ -8878,7 +8878,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Škvorec,nám.",
+          "headsign": "Škvorec, nám.",
           "variants": 4,
           "tripCount": 2,
           "stops": 36,
@@ -8899,7 +8899,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Skalka",
+          "headsign": "Praha, Skalka",
           "variants": 5,
           "tripCount": 11,
           "stops": 28,
@@ -8928,7 +8928,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Dolní Břežany,Zálepy",
+          "headsign": "Dolní Břežany, Zálepy",
           "variants": 5,
           "tripCount": 13,
           "stops": 26,
@@ -8949,7 +8949,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Opatov",
+          "headsign": "Praha, Opatov",
           "variants": 5,
           "tripCount": 19,
           "stops": 27,
@@ -8978,7 +8978,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Březová-Oleško,Oleško",
+          "headsign": "Březová-Oleško, Oleško",
           "variants": 6,
           "tripCount": 10,
           "stops": 28,
@@ -8999,7 +8999,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Kačerov",
+          "headsign": "Praha, Kačerov",
           "variants": 5,
           "tripCount": 10,
           "stops": 28,
@@ -9049,7 +9049,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Smíchovské nádraží",
+          "headsign": "Praha, Smíchovské nádraží",
           "variants": 1,
           "tripCount": 25,
           "stops": 10,
@@ -9078,7 +9078,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Kamenice,kult.dům",
+          "headsign": "Kamenice, kult.dům",
           "variants": 5,
           "tripCount": 10,
           "stops": 32,
@@ -9099,7 +9099,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Budějovická",
+          "headsign": "Praha, Budějovická",
           "variants": 4,
           "tripCount": 14,
           "stops": 36,
@@ -9128,7 +9128,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Jeneč,Lidická",
+          "headsign": "Jeneč, Lidická",
           "variants": 2,
           "tripCount": 18,
           "stops": 17,
@@ -9149,7 +9149,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Zličín",
+          "headsign": "Praha, Zličín",
           "variants": 2,
           "tripCount": 18,
           "stops": 18,
@@ -9178,7 +9178,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Roztoky,Levý Hradec",
+          "headsign": "Roztoky, Levý Hradec",
           "variants": 3,
           "tripCount": 11,
           "stops": 14,
@@ -9199,7 +9199,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Dejvická",
+          "headsign": "Praha, Dejvická",
           "variants": 4,
           "tripCount": 65,
           "stops": 13,
@@ -9228,7 +9228,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Jílové u Prahy,náměstí",
+          "headsign": "Jílové u Prahy, náměstí",
           "variants": 7,
           "tripCount": 13,
           "stops": 33,
@@ -9249,7 +9249,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Obchodní náměstí",
+          "headsign": "Praha, Obchodní náměstí",
           "variants": 6,
           "tripCount": 15,
           "stops": 32,
@@ -9299,7 +9299,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Nádraží Klánovice-sever",
+          "headsign": "Praha, Nádraží Klánovice-sever",
           "variants": 4,
           "tripCount": 3,
           "stops": 11,
@@ -9328,7 +9328,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Horoušany,u rybníka",
+          "headsign": "Horoušany, u rybníka",
           "variants": 2,
           "tripCount": 38,
           "stops": 20,
@@ -9349,7 +9349,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Černý Most",
+          "headsign": "Praha, Černý Most",
           "variants": 2,
           "tripCount": 44,
           "stops": 21,
@@ -9378,7 +9378,7 @@
       "dirs": [
         {
           "dir": "Brandýs n.L.-St.Bol.,nem.",
-          "headsign": "Brandýs n.L.-St.Bol.,nem.",
+          "headsign": "Brandýs n.L.-St.Bol., nem.",
           "variants": 1,
           "tripCount": 2,
           "stops": 10,
@@ -9399,7 +9399,7 @@
         },
         {
           "dir": "Praha,Černý Most",
-          "headsign": "Praha,Černý Most",
+          "headsign": "Praha, Černý Most",
           "variants": 2,
           "tripCount": 27,
           "stops": 14,
@@ -9428,7 +9428,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Hostivice,nádraží",
+          "headsign": "Hostivice, nádraží",
           "variants": 8,
           "tripCount": 17,
           "stops": 20,
@@ -9449,7 +9449,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Zličín",
+          "headsign": "Praha, Zličín",
           "variants": 5,
           "tripCount": 19,
           "stops": 20,
@@ -9499,7 +9499,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Ládví",
+          "headsign": "Praha, Ládví",
           "variants": 5,
           "tripCount": 19,
           "stops": 28,
@@ -9528,7 +9528,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Kladno,OAZA",
+          "headsign": "Kladno, OAZA",
           "variants": 9,
           "tripCount": 11,
           "stops": 29,
@@ -9549,7 +9549,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Dejvická",
+          "headsign": "Praha, Dejvická",
           "variants": 11,
           "tripCount": 9,
           "stops": 30,
@@ -9578,7 +9578,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Neratovice,žel.st.",
+          "headsign": "Neratovice, žel.st.",
           "variants": 3,
           "tripCount": 33,
           "stops": 24,
@@ -9599,7 +9599,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Letňany",
+          "headsign": "Praha, Letňany",
           "variants": 7,
           "tripCount": 29,
           "stops": 23,
@@ -9628,7 +9628,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Jinočany,náměstí",
+          "headsign": "Jinočany, náměstí",
           "variants": 1,
           "tripCount": 50,
           "stops": 15,
@@ -9649,7 +9649,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Luka",
+          "headsign": "Praha, Luka",
           "variants": 2,
           "tripCount": 49,
           "stops": 15,
@@ -9678,7 +9678,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Brandýs n.L.-St.Bol.,nádr.",
+          "headsign": "Brandýs n.L.-St.Bol., nádr.",
           "variants": 6,
           "tripCount": 9,
           "stops": 23,
@@ -9699,7 +9699,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Černý Most",
+          "headsign": "Praha, Černý Most",
           "variants": 5,
           "tripCount": 7,
           "stops": 24,
@@ -9749,7 +9749,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Černý Most",
+          "headsign": "Praha, Černý Most",
           "variants": 5,
           "tripCount": 15,
           "stops": 16,
@@ -9799,7 +9799,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Dejvická",
+          "headsign": "Praha, Dejvická",
           "variants": 4,
           "tripCount": 42,
           "stops": 17,
@@ -9828,7 +9828,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Praha,Obchodní centrum Ruzyně",
+          "headsign": "Praha, Obchodní centrum Ruzyně",
           "variants": 6,
           "tripCount": 18,
           "stops": 24,
@@ -9849,7 +9849,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Bořislavka",
+          "headsign": "Praha, Bořislavka",
           "variants": 7,
           "tripCount": 18,
           "stops": 24,
@@ -9899,7 +9899,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Opatov",
+          "headsign": "Praha, Opatov",
           "variants": 3,
           "tripCount": 35,
           "stops": 15,
@@ -9928,7 +9928,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Rudná,Hořelice",
+          "headsign": "Rudná, Hořelice",
           "variants": 1,
           "tripCount": 7,
           "stops": 14,
@@ -9949,7 +9949,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Zličín",
+          "headsign": "Praha, Zličín",
           "variants": 2,
           "tripCount": 6,
           "stops": 14,
@@ -9978,7 +9978,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Roztoky,Maxmiliánka",
+          "headsign": "Roztoky, Maxmiliánka",
           "variants": 6,
           "tripCount": 4,
           "stops": 16,
@@ -9999,7 +9999,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Suchdol",
+          "headsign": "Praha, Suchdol",
           "variants": 6,
           "tripCount": 9,
           "stops": 17,
@@ -10028,7 +10028,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Jílové u Prahy,náměstí",
+          "headsign": "Jílové u Prahy, náměstí",
           "variants": 2,
           "tripCount": 3,
           "stops": 9,
@@ -10049,7 +10049,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Budějovická",
+          "headsign": "Praha, Budějovická",
           "variants": 1,
           "tripCount": 3,
           "stops": 9,
@@ -10078,7 +10078,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Velké Popovice,Todice",
+          "headsign": "Velké Popovice, Todice",
           "variants": 6,
           "tripCount": 12,
           "stops": 34,
@@ -10099,7 +10099,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Opatov",
+          "headsign": "Praha, Opatov",
           "variants": 4,
           "tripCount": 14,
           "stops": 34,
@@ -10149,7 +10149,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Depo Hostivař",
+          "headsign": "Praha, Depo Hostivař",
           "variants": 1,
           "tripCount": 24,
           "stops": 29,
@@ -10178,7 +10178,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Stochov,nám.",
+          "headsign": "Stochov, nám.",
           "variants": 12,
           "tripCount": 8,
           "stops": 33,
@@ -10199,7 +10199,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Motol",
+          "headsign": "Praha, Motol",
           "variants": 10,
           "tripCount": 5,
           "stops": 35,
@@ -10249,7 +10249,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Depo Hostivař",
+          "headsign": "Praha, Depo Hostivař",
           "variants": 5,
           "tripCount": 5,
           "stops": 30,
@@ -10278,7 +10278,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Brandýs n.L.-St.Bol.,aut.st.",
+          "headsign": "Brandýs n.L.-St.Bol., aut.st.",
           "variants": 3,
           "tripCount": 5,
           "stops": 12,
@@ -10299,7 +10299,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Černý Most",
+          "headsign": "Praha, Černý Most",
           "variants": 2,
           "tripCount": 35,
           "stops": 14,
@@ -10328,7 +10328,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Kojetice,Tůmovka",
+          "headsign": "Kojetice, Tůmovka",
           "variants": 7,
           "tripCount": 12,
           "stops": 19,
@@ -10349,7 +10349,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Ládví",
+          "headsign": "Praha, Ládví",
           "variants": 8,
           "tripCount": 12,
           "stops": 20,
@@ -10378,7 +10378,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Kralupy n.Vlt.,žel.st.",
+          "headsign": "Kralupy n.Vlt., žel.st.",
           "variants": 19,
           "tripCount": 6,
           "stops": 23,
@@ -10399,7 +10399,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Kobylisy",
+          "headsign": "Praha, Kobylisy",
           "variants": 24,
           "tripCount": 14,
           "stops": 21,
@@ -10428,7 +10428,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Husinec,Řež,závod",
+          "headsign": "Husinec, Řež, závod",
           "variants": 6,
           "tripCount": 9,
           "stops": 19,
@@ -10449,7 +10449,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Kobylisy",
+          "headsign": "Praha, Kobylisy",
           "variants": 7,
           "tripCount": 10,
           "stops": 18,
@@ -10478,7 +10478,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Kralupy n.Vlt.,žel.st.",
+          "headsign": "Kralupy n.Vlt., žel.st.",
           "variants": 13,
           "tripCount": 2,
           "stops": 31,
@@ -10499,7 +10499,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Kobylisy",
+          "headsign": "Praha, Kobylisy",
           "variants": 17,
           "tripCount": 4,
           "stops": 29,
@@ -10528,7 +10528,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Odolena Voda,Dolínek",
+          "headsign": "Odolena Voda, Dolínek",
           "variants": 4,
           "tripCount": 15,
           "stops": 21,
@@ -10549,7 +10549,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Kobylisy",
+          "headsign": "Praha, Kobylisy",
           "variants": 2,
           "tripCount": 15,
           "stops": 21,
@@ -10599,7 +10599,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Kobylisy",
+          "headsign": "Praha, Kobylisy",
           "variants": 5,
           "tripCount": 14,
           "stops": 20,
@@ -10628,7 +10628,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Brandýs n.L.-St.Bol.,žel.st.",
+          "headsign": "Brandýs n.L.-St.Bol., žel.st.",
           "variants": 2,
           "tripCount": 93,
           "stops": 30,
@@ -10649,7 +10649,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Českomoravská",
+          "headsign": "Praha, Českomoravská",
           "variants": 1,
           "tripCount": 92,
           "stops": 32,
@@ -10678,7 +10678,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Brandýs n.L.-St.Bol.,nádr.",
+          "headsign": "Brandýs n.L.-St.Bol., nádr.",
           "variants": 1,
           "tripCount": 17,
           "stops": 23,
@@ -10699,7 +10699,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Letňany",
+          "headsign": "Praha, Letňany",
           "variants": 4,
           "tripCount": 15,
           "stops": 23,
@@ -10728,7 +10728,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Kostelec n.L.,Martinská",
+          "headsign": "Kostelec n.L., Martinská",
           "variants": 2,
           "tripCount": 43,
           "stops": 21,
@@ -10749,7 +10749,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Letňany",
+          "headsign": "Praha, Letňany",
           "variants": 2,
           "tripCount": 42,
           "stops": 21,
@@ -10778,7 +10778,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Radonice,Spojovací",
+          "headsign": "Radonice, Spojovací",
           "variants": 1,
           "tripCount": 35,
           "stops": 16,
@@ -10799,7 +10799,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Letňany",
+          "headsign": "Praha, Letňany",
           "variants": 1,
           "tripCount": 35,
           "stops": 16,
@@ -10828,7 +10828,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Králův Dvůr,Počaply,Obchodní centrum",
+          "headsign": "Králův Dvůr, Počaply, Obchodní centrum",
           "variants": 6,
           "tripCount": 35,
           "stops": 43,
@@ -10849,7 +10849,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Vypich",
+          "headsign": "Praha, Vypich",
           "variants": 6,
           "tripCount": 34,
           "stops": 44,
@@ -10878,7 +10878,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Štěchovice,Třebenice",
+          "headsign": "Štěchovice, Třebenice",
           "variants": 3,
           "tripCount": 21,
           "stops": 20,
@@ -10899,7 +10899,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Smíchovské nádraží",
+          "headsign": "Praha, Smíchovské nádraží",
           "variants": 3,
           "tripCount": 21,
           "stops": 19,
@@ -10928,7 +10928,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Úvaly,OC Pražská",
+          "headsign": "Úvaly, OC Pražská",
           "variants": 5,
           "tripCount": 5,
           "stops": 23,
@@ -10949,7 +10949,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Nádraží Klánovice",
+          "headsign": "Praha, Nádraží Klánovice",
           "variants": 4,
           "tripCount": 8,
           "stops": 20,
@@ -10978,7 +10978,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Přezletice,Vinořská",
+          "headsign": "Přezletice, Vinořská",
           "variants": 3,
           "tripCount": 14,
           "stops": 9,
@@ -10999,7 +10999,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Vinoř",
+          "headsign": "Praha, Vinoř",
           "variants": 3,
           "tripCount": 13,
           "stops": 8,
@@ -11028,7 +11028,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Modletice,Doubravice",
+          "headsign": "Modletice, Doubravice",
           "variants": 2,
           "tripCount": 6,
           "stops": 5,
@@ -11049,7 +11049,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Opatov",
+          "headsign": "Praha, Opatov",
           "variants": 2,
           "tripCount": 6,
           "stops": 5,
@@ -11078,7 +11078,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Úholičky,žel.zast.",
+          "headsign": "Úholičky, žel.zast.",
           "variants": 2,
           "tripCount": 4,
           "stops": 14,
@@ -11099,7 +11099,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Suchdol",
+          "headsign": "Praha, Suchdol",
           "variants": 3,
           "tripCount": 3,
           "stops": 16,
@@ -11128,7 +11128,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Zdiby,Brnky",
+          "headsign": "Zdiby, Brnky",
           "variants": 2,
           "tripCount": 11,
           "stops": 12,
@@ -11149,7 +11149,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Kobylisy",
+          "headsign": "Praha, Kobylisy",
           "variants": 2,
           "tripCount": 13,
           "stops": 12,
@@ -11178,7 +11178,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Slaný,aut.nádr.",
+          "headsign": "Slaný, aut.nádr.",
           "variants": 9,
           "tripCount": 3,
           "stops": 35,
@@ -11199,7 +11199,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Nádraží Veleslavín",
+          "headsign": "Praha, Nádraží Veleslavín",
           "variants": 8,
           "tripCount": 4,
           "stops": 34,
@@ -11228,7 +11228,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Jinočany,Logport",
+          "headsign": "Jinočany, Logport",
           "variants": 1,
           "tripCount": 40,
           "stops": 4,
@@ -11249,7 +11249,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Stodůlky",
+          "headsign": "Praha, Stodůlky",
           "variants": 1,
           "tripCount": 40,
           "stops": 4,
@@ -11278,7 +11278,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Černošice,žel.zast.",
+          "headsign": "Černošice, žel.zast.",
           "variants": 5,
           "tripCount": 9,
           "stops": 13,
@@ -11299,7 +11299,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Černošice,žel.zast.",
+          "headsign": "Černošice, žel.zast.",
           "variants": 5,
           "tripCount": 20,
           "stops": 8,
@@ -11328,7 +11328,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Unhošť,nám.",
+          "headsign": "Unhošť, nám.",
           "variants": 3,
           "tripCount": 16,
           "stops": 22,
@@ -11349,7 +11349,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Nádraží Veleslavín",
+          "headsign": "Praha, Nádraží Veleslavín",
           "variants": 4,
           "tripCount": 17,
           "stops": 22,
@@ -11378,7 +11378,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Jílové u Prahy,náměstí",
+          "headsign": "Jílové u Prahy, náměstí",
           "variants": 9,
           "tripCount": 11,
           "stops": 24,
@@ -11399,7 +11399,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Březová-Oleško,Oleško",
+          "headsign": "Březová-Oleško, Oleško",
           "variants": 16,
           "tripCount": 12,
           "stops": 24,
@@ -11428,7 +11428,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Neratovice,Kostomlatského",
+          "headsign": "Neratovice, Kostomlatského",
           "variants": 1,
           "tripCount": 9,
           "stops": 10,
@@ -11449,7 +11449,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Neratovice,Korycany",
+          "headsign": "Neratovice, Korycany",
           "variants": 2,
           "tripCount": 8,
           "stops": 11,
@@ -11478,7 +11478,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Říčany,Wolkerova",
+          "headsign": "Říčany, Wolkerova",
           "variants": 2,
           "tripCount": 7,
           "stops": 25,
@@ -11499,7 +11499,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Strančice,žel.st.",
+          "headsign": "Strančice, žel.st.",
           "variants": 2,
           "tripCount": 6,
           "stops": 23,
@@ -11549,7 +11549,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Kladno,autobusové nádraží",
+          "headsign": "Kladno, autobusové nádraží",
           "variants": 4,
           "tripCount": 5,
           "stops": 23,
@@ -11599,7 +11599,7 @@
         },
         {
           "dir": "Hovorčovice,U Kostela",
-          "headsign": "Hovorčovice,U Kostela",
+          "headsign": "Hovorčovice, U Kostela",
           "variants": 4,
           "tripCount": 5,
           "stops": 18,
@@ -11649,7 +11649,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Odolena Voda,závod",
+          "headsign": "Odolena Voda, závod",
           "variants": 3,
           "tripCount": 7,
           "stops": 19,
@@ -11670,7 +11670,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Brandýs n.L.-St.Bol.,nádr.",
+          "headsign": "Brandýs n.L.-St.Bol., nádr.",
           "variants": 4,
           "tripCount": 7,
           "stops": 19,
@@ -11699,7 +11699,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Odolena Voda,závod",
+          "headsign": "Odolena Voda, závod",
           "variants": 2,
           "tripCount": 6,
           "stops": 11,
@@ -11720,7 +11720,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Neratovice,žel.st.",
+          "headsign": "Neratovice, žel.st.",
           "variants": 2,
           "tripCount": 7,
           "stops": 11,
@@ -11749,7 +11749,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Odolena Voda,Dolní náměstí",
+          "headsign": "Odolena Voda, Dolní náměstí",
           "variants": 7,
           "tripCount": 3,
           "stops": 17,
@@ -11770,7 +11770,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Kralupy n.Vlt.,žel.st.",
+          "headsign": "Kralupy n.Vlt., žel.st.",
           "variants": 8,
           "tripCount": 4,
           "stops": 16,
@@ -11799,7 +11799,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Vonoklasy,samoobsluha",
+          "headsign": "Vonoklasy, samoobsluha",
           "variants": 2,
           "tripCount": 17,
           "stops": 6,
@@ -11820,7 +11820,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Černošice,žel.zast.",
+          "headsign": "Černošice, žel.zast.",
           "variants": 4,
           "tripCount": 17,
           "stops": 6,
@@ -11870,7 +11870,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Jenštejn,Dehtáry",
+          "headsign": "Jenštejn, Dehtáry",
           "variants": 3,
           "tripCount": 2,
           "stops": 4,
@@ -11899,7 +11899,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Říčany,Wolkerova",
+          "headsign": "Říčany, Wolkerova",
           "variants": 5,
           "tripCount": 21,
           "stops": 27,
@@ -11920,7 +11920,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Úvaly,žel.st.",
+          "headsign": "Úvaly, žel.st.",
           "variants": 3,
           "tripCount": 22,
           "stops": 26,
@@ -11970,7 +11970,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Zlatníky-Hodkovice,Na Drahách",
+          "headsign": "Zlatníky-Hodkovice, Na Drahách",
           "variants": 2,
           "tripCount": 5,
           "stops": 7,
@@ -12049,7 +12049,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Kralupy n.Vlt.,Synthos",
+          "headsign": "Kralupy n.Vlt., Synthos",
           "variants": 6,
           "tripCount": 2,
           "stops": 28,
@@ -12286,7 +12286,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Říčany,Strašín",
+          "headsign": "Říčany, Strašín",
           "variants": 2,
           "tripCount": 25,
           "stops": 14,
@@ -12307,7 +12307,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Říčany,Kuří",
+          "headsign": "Říčany, Kuří",
           "variants": 2,
           "tripCount": 25,
           "stops": 14,
@@ -12336,7 +12336,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Říčany,OÁZA",
+          "headsign": "Říčany, OÁZA",
           "variants": 2,
           "tripCount": 25,
           "stops": 13,
@@ -12357,7 +12357,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Říčany,Strašín,Pastelkov",
+          "headsign": "Říčany, Strašín, Pastelkov",
           "variants": 2,
           "tripCount": 25,
           "stops": 13,
@@ -12386,7 +12386,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Říčany,Pacov",
+          "headsign": "Říčany, Pacov",
           "variants": 2,
           "tripCount": 25,
           "stops": 15,
@@ -12407,7 +12407,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Říčany,Jažlovice",
+          "headsign": "Říčany, Jažlovice",
           "variants": 2,
           "tripCount": 25,
           "stops": 14,
@@ -12436,7 +12436,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Říčany,Srnčí",
+          "headsign": "Říčany, Srnčí",
           "variants": 1,
           "tripCount": 15,
           "stops": 16,
@@ -12457,7 +12457,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Říčany,Olivovna",
+          "headsign": "Říčany, Olivovna",
           "variants": 1,
           "tripCount": 15,
           "stops": 18,
@@ -12486,7 +12486,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Říčany,Obchodní",
+          "headsign": "Říčany, Obchodní",
           "variants": 3,
           "tripCount": 31,
           "stops": 12,
@@ -12507,7 +12507,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Říčany,Olivovna",
+          "headsign": "Říčany, Olivovna",
           "variants": 1,
           "tripCount": 31,
           "stops": 11,
@@ -12536,7 +12536,7 @@
       "dirs": [
         {
           "dir": "Říčany,Olivovna",
-          "headsign": "Říčany,Olivovna",
+          "headsign": "Říčany, Olivovna",
           "variants": 1,
           "tripCount": 1,
           "stops": 13,
@@ -12802,7 +12802,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Praha,Smíchovské nádraží",
+          "headsign": "Praha, Smíchovské nádraží",
           "variants": 2,
           "tripCount": 48,
           "stops": 3,
@@ -12823,7 +12823,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Nádraží Radotín",
+          "headsign": "Praha, Nádraží Radotín",
           "variants": 2,
           "tripCount": 53,
           "stops": 3,
@@ -12852,7 +12852,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Hradištko,Pikovice,most",
+          "headsign": "Hradištko, Pikovice, most",
           "variants": 1,
           "tripCount": 5,
           "stops": 9,
@@ -12873,7 +12873,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Nádraží Braník",
+          "headsign": "Praha, Nádraží Braník",
           "variants": 1,
           "tripCount": 5,
           "stops": 8,
@@ -16252,7 +16252,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Dobřichovice,pošta",
+          "headsign": "Dobřichovice, pošta",
           "variants": 2,
           "tripCount": 2,
           "stops": 23,
@@ -16273,7 +16273,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Smíchovské nádraží",
+          "headsign": "Praha, Smíchovské nádraží",
           "variants": 2,
           "tripCount": 2,
           "stops": 22,
@@ -16302,7 +16302,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Beroun,sídliště",
+          "headsign": "Beroun, sídliště",
           "variants": 2,
           "tripCount": 1,
           "stops": 30,
@@ -16323,7 +16323,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Sídliště Řepy",
+          "headsign": "Praha, Sídliště Řepy",
           "variants": 1,
           "tripCount": 1,
           "stops": 33,
@@ -16352,7 +16352,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Brandýs n.L.-St.Bol.,aut.st.",
+          "headsign": "Brandýs n.L.-St.Bol., aut.st.",
           "variants": 1,
           "tripCount": 4,
           "stops": 21,
@@ -16373,7 +16373,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Lehovec",
+          "headsign": "Praha, Lehovec",
           "variants": 1,
           "tripCount": 5,
           "stops": 21,
@@ -16402,7 +16402,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Číčovice,Velké Číčovice",
+          "headsign": "Číčovice, Velké Číčovice",
           "variants": 3,
           "tripCount": 1,
           "stops": 11,
@@ -16423,7 +16423,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Vítězné náměstí",
+          "headsign": "Praha, Vítězné náměstí",
           "variants": 1,
           "tripCount": 1,
           "stops": 12,
@@ -16452,7 +16452,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Brandýsek,Olšany",
+          "headsign": "Brandýsek, Olšany",
           "variants": 1,
           "tripCount": 1,
           "stops": 33,
@@ -16473,7 +16473,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Bořislavka",
+          "headsign": "Praha, Bořislavka",
           "variants": 1,
           "tripCount": 1,
           "stops": 9,
@@ -16502,7 +16502,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Jílové u Prahy,náměstí",
+          "headsign": "Jílové u Prahy, náměstí",
           "variants": 1,
           "tripCount": 1,
           "stops": 27,
@@ -16523,7 +16523,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Budějovická",
+          "headsign": "Praha, Budějovická",
           "variants": 1,
           "tripCount": 1,
           "stops": 22,
@@ -16552,7 +16552,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Hostivice,Ve Vilkách",
+          "headsign": "Hostivice, Ve Vilkách",
           "variants": 1,
           "tripCount": 1,
           "stops": 18,
@@ -16573,7 +16573,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Sídliště Řepy",
+          "headsign": "Praha, Sídliště Řepy",
           "variants": 1,
           "tripCount": 1,
           "stops": 18,
@@ -16602,7 +16602,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Odolena Voda,Dolní náměstí",
+          "headsign": "Odolena Voda, Dolní náměstí",
           "variants": 1,
           "tripCount": 1,
           "stops": 18,
@@ -16623,7 +16623,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Kobylisy",
+          "headsign": "Praha, Kobylisy",
           "variants": 1,
           "tripCount": 1,
           "stops": 15,
@@ -16652,7 +16652,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Kostelec n.Č.l.,nám.",
+          "headsign": "Kostelec n.Č.l., nám.",
           "variants": 2,
           "tripCount": 1,
           "stops": 27,
@@ -16673,7 +16673,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Háje",
+          "headsign": "Praha, Háje",
           "variants": 2,
           "tripCount": 1,
           "stops": 26,
@@ -16702,7 +16702,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Březová-Oleško,Oleško",
+          "headsign": "Březová-Oleško, Oleško",
           "variants": 1,
           "tripCount": 1,
           "stops": 39,
@@ -16723,7 +16723,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Budějovická",
+          "headsign": "Praha, Budějovická",
           "variants": 1,
           "tripCount": 1,
           "stops": 15,
@@ -16752,7 +16752,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Jinočany,náměstí",
+          "headsign": "Jinočany, náměstí",
           "variants": 1,
           "tripCount": 4,
           "stops": 7,
@@ -16773,7 +16773,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Praha,Slivenec",
+          "headsign": "Praha, Slivenec",
           "variants": 1,
           "tripCount": 4,
           "stops": 7,
