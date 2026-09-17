@@ -7,7 +7,7 @@ geometry.
 
 ## Live
 
-**https://miqell24.github.io/praha-bus-map/** — GitHub Pages serves
+**https://agcghub.github.io/praha-bus-map/** — GitHub Pages serves
 `main:/docs`; local build on port 8183 (`npm run serve`).
 
 Everything comes from ONE feed — the **PID GTFS** ROPID publishes for the
